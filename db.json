@@ -9,7 +9,7 @@
     {
       "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
+      "likes": 2,
       "author": "Collin Powell"
     },
     {
@@ -25,9 +25,9 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
+      "likes": 3,
       "author": "Winston Churchhill"
     },
     {
@@ -35,7 +35,24 @@
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
       "likes": 1,
       "author": "Newt Gingrich"
+    },
+    {
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "likes": 6,
+      "author": "Winston Churchill",
+      "id": 7
+    },
+    {
+      "quote": "All progress takes place outside the comfort zone.",
+      "likes": 5,
+      "author": "Michael John Bobak",
+      "id": 8
+    },
+    {
+      "quote": "Don't let the fear of losing be greater than the excitement of winning.",
+      "likes": 3,
+      "author": "Robert Kiyosaki",
+      "id": 9
     }
-
   ]
 }
